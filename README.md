@@ -1,3 +1,2 @@
 # bst
-binary search tree
-see header file for function descriptions
+binary search tree, see BST header file for function descriptions
